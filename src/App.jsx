@@ -54,7 +54,9 @@ export default function EstateRecoverySolutions() {
               <text x="70" y="31" textAnchor="middle" fontSize="20" fontWeight="700" fill="#FFFFFF" letterSpacing="2" fontFamily="Arial, Helvetica, sans-serif">ERS</text>
             </svg>
             <div>
-              <h1 className="text-xl font-semibold text-[#16375C]">Estate Recovery Solutions</h1>
+              <h1 className="text-4xl font-extrabold leading-tight text-[#16375C]">
+  Florida Probate Recovery for Institutional Creditors
+</h1>
               <p className="text-sm text-gray-500">Expert probate debt recovery for businesses.</p>
             </div>
           </button>
@@ -93,8 +95,7 @@ export default function EstateRecoverySolutions() {
           <div>
             <h2 className="text-4xl font-extrabold leading-tight text-[#16375C]">Institutional Probate Recovery, Simplified</h2>
             <p className="mt-4 text-lg text-gray-600">
-              We help financial institutions, auto lenders, and healthcare providers in Florida recover outstanding debts from deceased customer estates quickly, compliantly, and respectfully.
-            </p>
+              Attorney-led recovery of outstanding receivables from estates — structured, compliant, and performance-driven. We specialize in Florida probate creditor claims, estate debt recovery, and institutional receivables recovery within Florida probate courts.
 
             <ul className="mt-6 space-y-3">
               <li className="flex items-start gap-3"><div className="w-3 h-3 mt-2 flex-shrink-0 rounded-full bg-[#C8A03C]" /><span className="text-gray-700">Attorney-led process that makes your claim our priority from day one</span></li>
